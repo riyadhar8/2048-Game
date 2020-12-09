@@ -1,10 +1,10 @@
 # 2048-Game
-2048 Game with backtracking and hint feature implemented using Python
+2048 Game with backtracking and hint feature implemented using Python.
 
 
 ## How to use
 This is a terminal based game. It can be simulated by running:
-python3 2048game.py 
+`python3 2048game.py`
 on the terminal. 
 
 It has the following functions:
@@ -24,5 +24,7 @@ Rules of the game are same as standard 2048 gameplay. The goal is to reach 2048 
 
 ## C++ Implementation
 Play by typing:
-g++ 2048.cpp
-on the terminal.
+`g++ 2048.cpp`
+on the terminal.  
+
+Note: There is no backtracking implemented in C++ implementation.
